@@ -35,6 +35,22 @@ Yani bir repoya `web` topic'i eklersen, dili Python bile olsa Web kategorisine d
 **Not:** Python tek basina AI degildir! Python reposu Muhendislik'e duser;
 AI olmasi icin `ai` / `ml` / `llm` gibi topic eklemen gerekir.
 
+## Ozel baslik (title)
+
+Repo adi otomatik temizlenir (alt cizgi/tek tire -> bosluk, dil eki
+cikarilir: `Muta-File-Transfer-Server-c` -> "Muta File Transfer Server").
+Yine de basligi kendin belirlemek istersen repoya `title-` ile baslayan bir
+topic ekle (topic kurallari: kucuk harf + tire):
+
+| Repo topic'i | Sitedeki baslik |
+| --- | --- |
+| `title-instagram-botu` | Instagram Botu |
+| `title-3d-printer-web` | 3D Printer Web |
+| `title-cakma-mario` | Cakma Mario |
+
+`title-` ile baslayan topic'ler kategori eslemesine ve stack cihplerine
+karistirilmaz.
+
 ## Iletisim
 
 Contact form mesajlari `GITHUB_CONTENT_REPO` (veya `GITHUB_USERNAME/website-content`)
