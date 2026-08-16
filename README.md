@@ -21,18 +21,19 @@ Projeler **Supabase veya admin paneli olmadan** dogrudan GitHub repolarindan gel
 
 ## Repo -> Kategori eslemesi
 
-Kategori repo topic'leri ve dili kullanilarak otomatik atanir:
+Oncelik sirasi: **repo topics > dil > varsayilan (Muhendislik)**.
+Yani bir repoya `web` topic'i eklersen, dili Python bile olsa Web kategorisine duser.
 
-| Kategori | Topic / Dil |
-| --- | --- |
-| Oyun | `game`, `unity`, `unreal`, `godot` |
-| AI / Veri Bilimi | `ai`, `ml`, `llm`, `python`, `jupyter notebook` |
-| Elektronik/IoT | `iot`, `arduino`, `esp32`, `esp8266`, `embedded`, `C`, `C++` |
-| Web | `web`, `frontend`, `backend`, `react`, `nextjs`, `javascript`, `typescript` |
-| Muhendislik | `labview` (varsayilan) |
+| Kategori | Topic (oncelikli) | Dil (topic yoksa) |
+| --- | --- | --- |
+| Oyun | `game`, `game` isimli repo | - |
+| AI / Veri Bilimi | `ai`, `ml`, `llm`, `machine-learning`, `data-science`, `model` | `Jupyter Notebook` |
+| Elektronik/IoT | `iot`, `arduino`, `esp32`, `esp8266`, `embedded`, `hardware`, `sensor` | `Arduino`, `Embedded C` |
+| Web | `web`, `frontend`, `backend`, `react`, `nextjs`, `django`, `flask`, `api` | `JavaScript`, `TypeScript`, `HTML`, `CSS`, `PHP`, `Vue`, `Svelte`, `Astro` |
+| Muhendislik | `labview`, `automation`, `engineering` | `C`, `C++`, `LabVIEW`, `Python` (varsayilan) |
 
-Kategoriyi degistirmek istersen reponun **topics** alanina yukaridaki anahtar
-kelimelerden birini ekle (orn. `ai` topic'i ekleyince proje AI bolumune duser).
+**Not:** Python tek basina AI degildir! Python reposu Muhendislik'e duser;
+AI olmasi icin `ai` / `ml` / `llm` gibi topic eklemen gerekir.
 
 ## Iletisim
 
