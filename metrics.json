@@ -1,0 +1,23 @@
+[
+  {
+    "id": "m-years",
+    "label": "Yil Deneyim",
+    "value": "5",
+    "unit": "yil",
+    "order_index": 10
+  },
+  {
+    "id": "m-automation",
+    "label": "Otomasyon",
+    "value": "12",
+    "unit": "hat",
+    "order_index": 11
+  },
+  {
+    "id": "m-model",
+    "label": "Model",
+    "value": "7",
+    "unit": "ML",
+    "order_index": 12
+  }
+]

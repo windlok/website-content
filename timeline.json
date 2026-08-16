@@ -1,0 +1,23 @@
+[
+  {
+    "id": "t-1",
+    "title": "YBS Mezuniyeti",
+    "subtitle": "Yonetim Bilisim Sistemleri",
+    "period": "2019 - 2023",
+    "skills": ["Sistem Analizi", "Proje Yonetimi", "Veri Modelleme"]
+  },
+  {
+    "id": "t-2",
+    "title": "Tam Zamanli Staj",
+    "subtitle": "Haftada 5 gun Ar-Ge",
+    "period": "2023",
+    "skills": ["LabVIEW", "Python", "Test Otomasyonu"]
+  },
+  {
+    "id": "t-3",
+    "title": "Muta Labs",
+    "subtitle": "Tech & Hardware odakli uretilen projeler",
+    "period": "2024 - Simdi",
+    "skills": ["Goruntu Isleme", "IoT", "Modern Web"]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "a-1",
+    "title": "YBS Mezuniyeti",
+    "subtitle": "Yonetim Bilisim Sistemleri",
+    "year": "2023",
+    "impact": "Disiplinli proje teslimleri",
+    "link": null
+  },
+  {
+    "id": "a-2",
+    "title": "Ar-Ge Staj",
+    "subtitle": "LabVIEW + Python",
+    "year": "2023",
+    "impact": "Test otomasyonu iyilestirme",
+    "link": null
+  }
+]
