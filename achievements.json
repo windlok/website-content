@@ -1,18 +1,26 @@
 [
   {
     "id": "a-1",
-    "title": "YBS Mezuniyeti",
-    "subtitle": "Yonetim Bilisim Sistemleri",
-    "year": "2023",
-    "impact": "Disiplinli proje teslimleri",
+    "title": "YBS Lisans Mezuniyeti",
+    "subtitle": "Necmettin Erbakan Universitesi",
+    "year": "2026",
+    "impact": "GPA 3.06 / 4.00",
     "link": null
   },
   {
     "id": "a-2",
-    "title": "Ar-Ge Staj",
-    "subtitle": "LabVIEW + Python",
-    "year": "2023",
-    "impact": "Test otomasyonu iyilestirme",
+    "title": "Bitirme Projesi",
+    "subtitle": "Tedarik zinciri yonetiminde yapay zekanin etkisi",
+    "year": "2026",
+    "impact": "Arastirma ve uygulama tabanli calisma",
+    "link": null
+  },
+  {
+    "id": "a-3",
+    "title": "Dron Pilotu (IHA-1)",
+    "subtitle": "Resmi insansiz hava araci lisansi",
+    "year": null,
+    "impact": "Sertifikali operasyon yetkinligi",
     "link": null
   }
 ]

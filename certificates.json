@@ -1,10 +1,13 @@
 [
-  {
-    "id": "c-1",
-    "title": "AI Fundamentals",
-    "issuer": "Online Academy",
-    "year": "2024",
-    "url": null,
-    "image_url": null
-  }
+  { "id": "c-1", "title": "YOLOv11 ile Bilgisayarli Goru Pratikleri", "issuer": "BTK Akademi", "year": "2026", "url": null, "image_url": null },
+  { "id": "c-2", "title": "Veri Bilimi icin Python ve Tensorflow", "issuer": "BTK Akademi", "year": "2026", "url": null, "image_url": null },
+  { "id": "c-3", "title": "Docker Temelleri", "issuer": "BTK Akademi", "year": "2025", "url": null, "image_url": null },
+  { "id": "c-4", "title": "C++ ve C", "issuer": "BTK Akademi", "year": "2025", "url": null, "image_url": null },
+  { "id": "c-5", "title": "Versiyon Kontrolleri: Git ve GitHub", "issuer": "BTK Akademi", "year": "2026", "url": null, "image_url": null },
+  { "id": "c-6", "title": "IBM ile Kodluyoruz: AI4Future", "issuer": "Kodluyoruz", "year": "2026", "url": null, "image_url": null },
+  { "id": "c-7", "title": "Temel Elektronik ve Robotige Giris", "issuer": "BTK Akademi", "year": "2025", "url": null, "image_url": null },
+  { "id": "c-8", "title": "Python Programlama", "issuer": "BTK Akademi", "year": "2023", "url": null, "image_url": null },
+  { "id": "c-9", "title": "Uygulamalarla SQL Ogreniyorum", "issuer": "BTK Akademi", "year": "2024", "url": null, "image_url": null },
+  { "id": "c-10", "title": "HTML5 ile Web Gelistirme & Java Giris", "issuer": "BTK Akademi", "year": "2024", "url": null, "image_url": null },
+  { "id": "c-11", "title": "DoS / DDoS Saldirilari ve Koruma", "issuer": "BTK Akademi", "year": "2022", "url": null, "image_url": null }
 ]

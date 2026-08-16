@@ -1,23 +1,23 @@
 [
   {
     "id": "t-1",
-    "title": "YBS Mezuniyeti",
-    "subtitle": "Yonetim Bilisim Sistemleri",
-    "period": "2019 - 2023",
+    "title": "Necmettin Erbakan Universitesi",
+    "subtitle": "Lisans, Yonetim Bilisim Sistemleri | GPA: 3.06 / 4.00",
+    "period": "2022 - 2026",
     "skills": ["Sistem Analizi", "Proje Yonetimi", "Veri Modelleme"]
   },
   {
     "id": "t-2",
-    "title": "Tam Zamanli Staj",
-    "subtitle": "Haftada 5 gun Ar-Ge",
-    "period": "2023",
-    "skills": ["LabVIEW", "Python", "Test Otomasyonu"]
+    "title": "SDT Uzay ve Savunma Sanayi",
+    "subtitle": "Yazilim Muhendisligi Stajyeri (Tam Zamanli)",
+    "period": "Eylul 2025 - Mayis 2026",
+    "skills": ["LabVIEW", "DAQ", "Python", "Qt", "Winsock"]
   },
   {
     "id": "t-3",
     "title": "Muta Labs",
-    "subtitle": "Tech & Hardware odakli uretilen projeler",
-    "period": "2024 - Simdi",
+    "subtitle": "Kurucu - IoT, gomulu sistemler ve mobil arastirma",
+    "period": "Haziran 2025 - Devam",
     "skills": ["Goruntu Isleme", "IoT", "Modern Web"]
   }
 ]
