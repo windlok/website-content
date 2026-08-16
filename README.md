@@ -1,8 +1,16 @@
 # Website Content (GitHub = SQL)
 
 Bu klasordeki JSON dosyalari sitenin "veritabani" gibi davranir.
-Sitedeki Skills, Timeline, Achievements, Certificates, Metrics ve Settings
-bolumleri bu dosyalardan okunur.
+Sitedeki Timeline, Achievements, Certificates, Metrics ve Settings bolumleri
+bu dosyalardan okunur.
+
+## Skills (Yetenek Matrisi)
+
+- **Diller** grubu: GitHub repolarindan **otomatik** hesaplanir
+  (her dilin kac projede kullanildigi + seviye).
+- Diger gruplar: `skills.json` dosyasindan gelir. GitHub'da gorunmeyen
+  yetkinlikler (LabVIEW, IoT, ML gibi) buraya eklenir. `count` alani
+  "X proje" olarak gosterilir.
 
 ## Nasil calisir
 
