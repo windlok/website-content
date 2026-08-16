@@ -1,6 +1,3 @@
 [
-  { "id": "s-1", "name": "LabVIEW", "group_name": "Engineering", "level": 4, "count": 5 },
-  { "id": "s-2", "name": "IoT", "group_name": "Hardware", "level": 3, "count": 3 },
-  { "id": "s-3", "name": "Next.js", "group_name": "Web", "level": 3, "count": 2 },
-  { "id": "s-4", "name": "ML", "group_name": "AI / Veri Bilimi", "level": 3, "count": 7 }
+  { "id": "s-1", "name": "LabVIEW", "group_name": "Languages", "level": 4, "count": 5 }
 ]

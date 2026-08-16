@@ -6,11 +6,11 @@ bu dosyalardan okunur.
 
 ## Skills (Yetenek Matrisi)
 
-- **Diller** grubu: GitHub repolarindan **otomatik** hesaplanir
+- **Languages** grubu: GitHub repolarindan **otomatik** hesaplanir
   (her dilin kac projede kullanildigi + seviye).
-- Diger gruplar: `skills.json` dosyasindan gelir. GitHub'da gorunmeyen
-  yetkinlikler (LabVIEW, IoT, ML gibi) buraya eklenir. `count` alani
-  "X proje" olarak gosterilir.
+- `skills.json`: GitHub'da gorunmeyen diller icin eklenir (ornegin
+  LabVIEW). `group_name` degeri "Languages" olursa otomatik listeye
+  karisir, `count` alani "X proje" olarak gosterilir.
 
 ## Nasil calisir
 
