@@ -1,8 +1,8 @@
 # Website Content (GitHub = SQL)
 
 Bu klasordeki JSON dosyalari sitenin "veritabani" gibi davranir.
-Sitedeki Skills, Timeline, Achievements, Certificates, Services, Testimonials,
-Media, Metrics ve Settings bolumleri bu dosyalardan okunur.
+Sitedeki Skills, Timeline, Achievements, Certificates, Metrics ve Settings
+bolumleri bu dosyalardan okunur.
 
 ## Nasil calisir
 
